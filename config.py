@@ -47,5 +47,5 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/DPCmWSKV/1000003297-3.
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002587734819"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://cteator898_db_user:X2zbPeJIK6HaLPXq@cluster0.klvyqnx.mongodb.net/?appName=Cluster0")
 # PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002587734819"))
-# THUMB_URL = os.environ.get("THUMB_URL", "https://i.fbcd.co/products/original/ug-circle-logo-design-2-e84695ca2ab9a697d2b2d7c928b0bf5f12bf18e076da241815e0372c8d617915.jpg")
+# THUMB_URL = os.environ.get("THUMB_URL", "https://files.catbox.moe/4tl473.jpg")
 
