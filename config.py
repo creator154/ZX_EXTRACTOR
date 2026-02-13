@@ -39,11 +39,11 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/DPCmWSKV/1000003297-3.
 
 # # Bot configuration
 # API_ID = int(os.environ.get("API_ID", "34943077"))
-# API_HASH = os.environ.get("API_HASH", "a98ec8cfd8572a3a7c936cf828fe6215")
+# API_HASH = os.environ.get("API_HASH", "11aeec678349456f1d190f02975ed89f")
 # BOT_TOKEN = os.environ.get("BOT_TOKEN", "8552471757:AAGGZFfLnFZ-ikjdIb0Jr_2okx8oiCnO0iQ")
-# BOT_USERNAME = os.environ.get("BOT_USERNAME", "MassRPBot")
-# OWNER_ID = int(os.environ.get("OWNER_ID", "7463601722"))
-# SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7463601722").split()))
+# BOT_USERNAME = os.environ.get("BOT_USERNAME", "Zx_Extractor_Bot")
+# OWNER_ID = int(os.environ.get("OWNER_ID", "8260963405"))
+# SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8112779349").split()))
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002587734819"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://cteator898_db_user:X2zbPeJIK6HaLPXq@cluster0.klvyqnx.mongodb.net/?appName=Cluster0")
 # PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002587734819"))
