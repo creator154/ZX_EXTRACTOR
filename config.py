@@ -46,6 +46,6 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/DPCmWSKV/1000003297-3.
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8112779349").split()))
 # CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002587734819"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://cteator898_db_user:X2zbPeJIK6HaLPXq@cluster0.klvyqnx.mongodb.net/?appName=Cluster0")
-# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "0"))
+# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003310787250"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://files.catbox.moe/4tl473.jpg")
 
